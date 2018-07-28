@@ -1,2 +1,2 @@
 # Classic-Start
-Renamed to NeoClassic - https://github.com/NeoClassic-UI/Menu
+Renamed to NeoClassic-UI - https://github.com/NeoClassic-UI/Menu
