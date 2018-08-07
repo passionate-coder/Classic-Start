@@ -1,2 +1,2 @@
 # Classic-Start
-Renamed to NeoClassic-UI - https://github.com/NeoClassic-UI/Menu
+Renamed to Open-Shell - https://github.com/Open-Shell/Open-Shell-Menu
